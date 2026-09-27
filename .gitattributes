@@ -1,0 +1,6 @@
+# Keep project text files portable across Windows, macOS, and Linux.
+
+*.sh  text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+*.md  text eol=lf
