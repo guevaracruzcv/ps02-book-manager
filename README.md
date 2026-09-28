@@ -236,4 +236,4 @@ A short narrated demonstration will show:
 2. adding or inspecting a book
 3. generating recommendations from the three parallel strategies
 
-Demo video: **[add link here]**
+Demo video: **[https://1drv.ms/v/c/a6a91cb71160b1a9/IQCxM9hrxX5JSoM0FHW9jyREAf6EuNbipPzZL-U9cgFuSMY?e=8eaTr6]**
